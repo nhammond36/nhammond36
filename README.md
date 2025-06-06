@@ -1,4 +1,5 @@
 # Nancy Hammond, Ph.D.
+📄 Resume: [View My Resume](https://github.com/nhammond36/nhammond36/raw/main/Nancy Hammond_modern.pdf)
 
 🎓 Quantitative Economist | Macro-Finance | Volatility Modeling | Policy Risk | Python • R • C++
 
